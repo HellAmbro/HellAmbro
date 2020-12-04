@@ -1,5 +1,6 @@
 ### Hi there, I'm using GitHub 👋
 ![](https://komarev.com/ghpvc/?username=HellAmbro)
+![](https://hit.yhype.halp.im/github/profile?user_id=45211144)
 #### 📫 How to reach me: frambrosini1998@gmail.com
 
 <!--
