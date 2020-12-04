@@ -1,6 +1,7 @@
 ### Hi there, I'm using GitHub 👋
 ![](https://komarev.com/ghpvc/?username=HellAmbro)
-📫 How to reach me: frambrosini1998@gmail.com
+#### 📫 How to reach me: frambrosini1998@gmail.com
+
 <!--
 **HellAmbro/HellAmbro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
