@@ -6,6 +6,15 @@
 [![Instagram](https://img.shields.io/badge/Instagram-hell__ambro98-yellow)](https://www.instagram.com/hell_ambro98/)
 [![Facebook](https://img.shields.io/badge/facebook-Francesco%20Ambrosini-blue)](https://www.facebook.com/fraambro98/)
 #### 📫 How to reach me: frambrosini1998@gmail.com
+### Spoken languages
+- Italian (native)
+- English (B1)
+#
+- Java
+- Kotlin
+- C
+- Python  
+🌱 I’m currently learning Go
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HellAmbro&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true)
 <!--
@@ -13,8 +22,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
