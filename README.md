@@ -14,18 +14,14 @@
 - Kotlin
 - C
 - Python  
+
 🌱 I’m currently learning Go
+#
+I have published 3 applications on the Play Store under the name [Rutershok](https://play.google.com/store/apps/dev?id=6921566180913144685&hl=en_CA)  
+- [Phrases](https://play.google.com/store/apps/details?id=com.rutershok.phrases)
+- [Quotes](https://play.google.com/store/apps/details?id=com.rutershok.quotes)
+- [Daily Quotes](https://play.google.com/store/apps/details?id=com.rutershok.daily)  
+
+yes, all about phrases and quotations, but I was inspired
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HellAmbro&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true)
-<!--
-**HellAmbro/HellAmbro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
--  ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
