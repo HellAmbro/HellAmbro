@@ -8,7 +8,7 @@
 #### 📫 How to reach me: frambrosini1998@gmail.com
 ### Spoken languages
 - Italian (native)
-- English (B1)
+- English
 #
 - Java
 - Kotlin
