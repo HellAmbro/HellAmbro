@@ -26,4 +26,6 @@ yes, all about phrases and quotations, but I was inspired
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HellAmbro&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true)
 
-*Even if I love free software I can't publish all the projects for obvious reasons*
+<p align='center'>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HellAmbro&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919">
+</p>
