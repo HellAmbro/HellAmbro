@@ -14,8 +14,6 @@
 - Kotlin
 - C
 - Python  
-
-🌱 I’m currently learning ~~Go~~ Dart
 #
 I have published 3 applications on the Play Store under the name [Rutershok](https://play.google.com/store/apps/dev?id=6921566180913144685&hl=en_CA)  
 - [Phrases](https://play.google.com/store/apps/details?id=com.rutershok.phrases)
