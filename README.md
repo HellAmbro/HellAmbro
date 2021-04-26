@@ -1,7 +1,4 @@
 ### Hi there, I'm using GitHub 👋
-![](https://komarev.com/ghpvc/?username=HellAmbro)
-![](https://hit.yhype.me/github/profile?user_id=45211144)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Francesco%20Ambrosini-green)](https://www.linkedin.com/in/francesco-ambrosini-2493ab140/)
 [![Instagram](https://img.shields.io/badge/Instagram-hell__ambro98-yellow)](https://www.instagram.com/hell_ambro98/)
 [![Facebook](https://img.shields.io/badge/facebook-Francesco%20Ambrosini-blue)](https://www.facebook.com/fraambro98/)
@@ -9,11 +6,13 @@
 ### Spoken languages
 - Italian (native)
 - English
-### Languages
+- Spanish
+### Programing Languages
 - Java
 - Kotlin
 - C
 - Python
+- JavaScript
 ### OS
 - Android
 - Windows
